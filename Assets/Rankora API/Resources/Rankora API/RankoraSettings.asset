@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f3a9521d44c95a43a2ec2ee134cbc56, type: 3}
+  m_Name: RankoraSettings
+  m_EditorClassIdentifier: 
+  apiKey: g4Q1cSqaO6sRMqyENgy6iOWMEBJkRpQH8hFpmE1J0sDBXyGCs2rzb73IL9N4
+  playerIdSaveMode: 0
+  leaderboardSorting: 0
+  pageSize: 10
+  scoreFormat: 2
+  leaderboardEmptyText: No entries found! Try submitting a score
+  loadingLeaderboardText: Loading Leaderboard...
+  currentPlayerTextFormat: '{0} (You)'
+  entryStyleAssets:
+  - {fileID: 11400000, guid: 84ee3f6761c2e3243a73748812587296, type: 2}
+  - {fileID: 11400000, guid: c24b6e32b0a7a594b87f4937650daa84, type: 2}
+  - {fileID: 11400000, guid: f28fd21bf54fabc48a8464c4769baf1c, type: 2}

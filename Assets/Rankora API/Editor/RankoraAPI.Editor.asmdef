@@ -1,0 +1,18 @@
+{
+    "name": "RankoraAPI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e2510810534053b458fbcee38f7396a9",
+        "UnityEditor.UI",
+        "UnityEditor.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "com.rankora.unity-sdk",
+  "version": "1.0.0",
+  "displayName": "Rankora Unity SDK",
+  "description": "A secure, scalable, and easy-to-use leaderboard API service for Unity games. Enables quick integration of online leaderboards without building backend infrastructure.",
+  "unity": "2022.3.11f1",
+  "keywords": [
+    "leaderboard",
+    "api",
+    "online",
+    "gaming",
+    "scores",
+    "rankings",
+    "multiplayer",
+    "cloud"
+  ],
+  "author": {
+    "name": "Rankora",
+    "email": "contact@rankora.dev",
+    "url": "https://www.rankora.dev"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jadquir/Rankora-Unity-SDK"
+  },
+  "bugs": {
+    "url": "https://github.com/Jadquir/Rankora-Unity-SDK/issues"
+  },
+  "homepage": "https://www.rankora.dev/docs/sdk/unity",
+  "documentationUrl": "https://www.rankora.dev/docs/sdk/unity",
+  "changelogUrl": "https://github.com/Jadquir/Rankora-Unity-SDK/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Jadquir/Rankora-Unity-SDK/blob/main/LICENSE",
+  "category": "Game Framework",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.render-pipelines.universal": "14.0.9",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.2d.common": "8.0.1",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  },
+  "features": [
+    "Unity SDK for Rankora leaderboard API",
+    "C# classes and components for leaderboard management",
+    "Unity Editor integration and custom inspectors",
+    "Sample scenes, prefabs, and examples",
+    "Cross-platform Unity support",
+    "Assembly definitions and package structure",
+    "C# API wrapper for Rankora services",
+    "Unity-specific data structures"
+  ],
+  "supportedPlatforms": [
+    "Editor",
+    "Standalone",
+    "iOS",
+    "Android",
+    "WebGL",
+    "Windows Store Apps",
+    "tvOS"
+  ],
+  "minimumUnityVersion": "2022.3.11f1",
+  "recommendedUnityVersion": "2022.3.11f1",
+  "testable": true,
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

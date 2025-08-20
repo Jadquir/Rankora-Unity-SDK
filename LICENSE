@@ -1,0 +1,47 @@
+# Rankora Unity SDK License
+
+## Overview
+This project is provided free of charge by Rankora, a freemium leaderboard API service. While the Unity SDK code is free to use, **you must use Rankora's services to utilize this project**.
+
+## Terms of Use
+
+### Free Usage
+- The Rankora Unity SDK source code is free to use, modify, and distribute
+- You may integrate this SDK into your Unity projects without cost
+- You may modify the SDK code to suit your specific needs
+
+### Service Requirement
+- **To use this SDK, you must use Rankora's leaderboard API services**
+- This SDK is designed to work exclusively with Rankora's backend infrastructure
+- You cannot use this SDK with other leaderboard services without significant modifications
+
+### What You Get with Rankora
+- Secure, scalable leaderboard infrastructure
+- User authentication and management
+- Real-time webhook events
+- Analytics and monitoring
+- Cross-platform compatibility
+- Professional support and documentation
+
+### Restrictions
+- You may not redistribute this SDK as a standalone product
+- You may not use this SDK to compete with Rankora's services
+- Commercial use requires compliance with Rankora's terms of service
+
+## Attribution
+When using this SDK, please include appropriate attribution to Rankora in your project documentation or credits.
+
+## Support
+For technical support, documentation, and service inquiries, visit:
+- Website: https://www.rankora.dev
+- Documentation: https://www.rankora.dev/docs/sdk/unity
+- Contact: contact@rankora.dev
+
+## Changes to License
+Rankora reserves the right to modify this license at any time. Continued use of the SDK constitutes acceptance of any changes.
+
+---
+
+**By using this SDK, you agree to these terms and acknowledge that you will use Rankora's services to implement leaderboard functionality in your project.**
+
+© 2025 Rankora. All rights reserved.
