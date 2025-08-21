@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f3a9521d44c95a43a2ec2ee134cbc56, type: 3}
   m_Name: RankoraSettings
   m_EditorClassIdentifier: 
-  apiKey: g4Q1cSqaO6sRMqyENgy6iOWMEBJkRpQH8hFpmE1J0sDBXyGCs2rzb73IL9N4
+  apiKey: 
   playerIdSaveMode: 0
   leaderboardSorting: 0
   pageSize: 10
@@ -20,6 +20,7 @@ MonoBehaviour:
   leaderboardEmptyText: No entries found! Try submitting a score
   loadingLeaderboardText: Loading Leaderboard...
   currentPlayerTextFormat: '{0} (You)'
+  currentPageFormat: 'Page: {0}'
   entryStyleAssets:
   - {fileID: 11400000, guid: 84ee3f6761c2e3243a73748812587296, type: 2}
   - {fileID: 11400000, guid: c24b6e32b0a7a594b87f4937650daa84, type: 2}
